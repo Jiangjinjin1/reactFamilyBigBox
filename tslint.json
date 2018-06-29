@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "tslint-react"
+  ],
+  "rules": {
+    "quotemark": [
+      true,
+      "single"
+    ],
+    "ordered-imports": [
+      false
+    ],
+    "jsx-boolean-value": [
+      false
+    ],
+    "semicolon": [
+      false,
+      "always"
+    ],
+    "space-before-function-paren": [true, "always"],
+    "whitespace": [true,"check-branch", "check-operator", "check-typecast"]
+  }
+}
