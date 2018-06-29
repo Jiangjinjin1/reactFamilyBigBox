@@ -1,1 +1,1 @@
-# react+redux+webpack+postCss
+# react+redux+webpack+postcss+typescript
